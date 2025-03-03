@@ -1,0 +1,7 @@
+{
+    "source_folder": "./source",
+    "destination_folder": "./destination",
+    "crf": "28",
+    "codec": "libx265",
+    "ffmpeg_path": "./ffmpeg/bin/ffmpeg.exe"
+}
